@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=canotalois&label=Profile%20views&color=0e75b6&style=flat" alt="canotalois" /> </p>
 
-- 🌱 I’m currently learning **C language**
+- 🌱 I’m currently learning **Solidity language**
 
 - 📫 How to reach me **alois.canot@epitech.eu**
 
