@@ -11,7 +11,6 @@
 <ul>
   <li>🎓 Currently a student in my 3rd year at Epitech Nancy.</li>
   <li>💻 Specializing in web development with expertise in <strong>React</strong>, <strong>Next.js</strong>, <strong>TypeScript</strong>, and <strong>Tailwind CSS</strong>.</li>
-  <li>🌱 Currently learning <strong>Solidity</strong>and diving into Web3 technologies to build decentralized applications.</li>
   <li>🎯 Ambition: To contribute to the future of decentralized ecosystems and create impactful web and blockchain applications.</li>
 </ul>
 
@@ -72,11 +71,6 @@
   </a>
   <a href="https://prisma.io/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" alt="prisma" width="40" height="40"/>
-  </a>
-
-  <!-- Web3 -->
-  <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/>
   </a>
 
   <!-- DevOps -->
