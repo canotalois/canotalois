@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aloïs Canot</h1>
-<h3 align="center">Web Developer | Passionate about Web3</h3>
+<h3 align="center">Web Developer | Passionate about the art and science of UX/UI</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=canotalois&label=Profile%20views&color=0e75b6&style=flat" alt="canotalois" />
@@ -84,11 +84,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
   </a>
 
-  <!-- JetBrains Suite -->
-  <a href="https://www.jetbrains.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" alt="JetBrains" width="40" height="40"/>
-  </a>
-
   <!-- Programming Languages -->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -101,6 +96,16 @@
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+  </a>
+</p>
+
+<p align="left">
+  <!-- JetBrains Suite -->
+  <a href="https://www.jetbrains.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" alt="JetBrains" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
   </a>
 </p>
 
