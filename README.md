@@ -27,7 +27,7 @@
 <ul>
   <li>📧 Email: <a href="mailto:alois.canot@epitech.eu">alois.canot@epitech.eu</a></li>
   <li>🔗 LinkedIn: <a href="https://linkedin.com/in/alois-canot" target="_blank">linkedin.com/in/alois-canot</a></li>
-  <li>🌐 Portfolio: <a href="https://portfolio.canot.dev" target="_blank">portfolio.canot.dev</a></li>
+  <li>🌐 Portfolio: <a href="https://portfolio.canot.dev" target="_blank">portfolio.canot.dev</a> in progress...</li>
 </ul>
 
 ---
