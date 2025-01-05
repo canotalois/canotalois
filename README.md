@@ -18,7 +18,6 @@
 <h2 align="left">💼 Current Projects</h2>
 <ul>
   <li>🔧 <strong>R-Type Multiplayer Game Engine</strong>: Developing a networked multiplayer game engine in C++ with a focus on modular architecture and real-time networking.</li>
-  <li>🤖 <strong>Neural Network Chess AI</strong>: Building a machine-learning-based chessboard analyzer and generator to simulate strategies for complex chess scenarios.</li>
   <li>📊 <strong>Financial Dashboard</strong>: Creating a gamified financial tracking application to help users better manage their finances and grow their assets.</li>
 </ul>
 
