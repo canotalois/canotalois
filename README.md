@@ -11,7 +11,7 @@
 <ul>
   <li>🎓 Currently a student in my 3rd year at Epitech Nancy.</li>
   <li>💻 Specializing in web development with expertise in <strong>React</strong>, <strong>Next.js</strong>, <strong>TypeScript</strong>, and <strong>Tailwind CSS</strong>.</li>
-  <li>🌱 Currently learning <strong>Solidity</strong> and diving into Web3 technologies to build decentralized applications.</li>
+  <li>🌱 Currently learning <strong>Rust</strong> and diving into Web3 technologies to build decentralized applications.</li>
   <li>🎯 Ambition: To contribute to the future of decentralized ecosystems and create impactful web and blockchain applications.</li>
 </ul>
 
