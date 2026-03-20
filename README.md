@@ -43,6 +43,10 @@ Low-level foundations (C/C++/Assembly, Epitech), now building real-time fintech 
     <td>Git · PostHog · Chrome Extensions · Figma</td>
   </tr>
   <tr>
+    <td><strong>Python</strong></td>
+    <td>PyTorch · Socket · Subprocess · AES</td>
+  </tr>
+  <tr>
     <td><strong>Low-level</strong></td>
     <td>C · C++ · Assembly · Linux</td>
   </tr>
@@ -50,4 +54,4 @@ Low-level foundations (C/C++/Assembly, Epitech), now building real-time fintech 
 
 ---
 
-<p align="center"><em>Available freelance or contract · Remote</em></p>
+<p align="center"><em>Freelance or contract · Remote</em></p>
