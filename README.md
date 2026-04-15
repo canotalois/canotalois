@@ -24,7 +24,7 @@ Low-level foundations (C/C++/Assembly, Epitech), now building real-time fintech 
 <table>
   <tr>
     <td><strong>Frontend</strong></td>
-    <td>React · TypeScript · Zustand · React Query · Tailwind CSS · Framer Motion · Vite</td>
+    <td>React · TypeScript · Next.js · Zustand · React Query · Tailwind CSS · Framer Motion · Vite</td>
   </tr>
   <tr>
     <td><strong>Real-time</strong></td>
@@ -32,7 +32,7 @@ Low-level foundations (C/C++/Assembly, Epitech), now building real-time fintech 
   </tr>
   <tr>
     <td><strong>Backend</strong></td>
-    <td>Node.js · Express.js · MongoDB · Stripe · Privy</td>
+    <td>Node.js · Express.js · NestJS · MongoDB · Stripe · Privy</td>
   </tr>
   <tr>
     <td><strong>AI / Bots</strong></td>
